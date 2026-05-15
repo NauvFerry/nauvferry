@@ -1,5 +1,5 @@
 # Muhammad Nauval Ferry Widya Akmal
-**Computational Physics @ UI | CTO at Mecara Tech | Data & Risk Strategist**
+**Computational Physics at University of Indonesia | CTO at Mecara Tech | Data & Risk Strategist**
 
 Physics undergraduate specializing in high-fidelity data preprocessing, statistical modeling, and automated verification frameworks. I bridge the gap between complex physical systems and data-driven strategic decisions.
 
